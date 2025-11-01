@@ -1,0 +1,47 @@
+RentBook Pro - Privacy Policy
+
+Effective date: 2025-11-01
+Contact: sabir@sjain.co.in
+
+1. Introduction
+RentBook Pro ("we", "our", or "us") provides this Privacy Policy to explain how we collect, use, store, and disclose information when you use our Android application "RentBook Pro" (the "App"). By downloading or using the App, you agree to the terms described in this policy.
+
+2. Information We Collect
+- Device and Log Information: We automatically collect information about the device you use to access the App (device model, OS version, device identifiers), and log information (crash reports, performance metrics, and app usage data).
+- Usage Data: Anonymous analytics about how the App is used (screens visited, features used, timestamps).
+- Optional Information: If you choose to contact us via email or provide account details inside the App, that information (name, email, message) will be collected only for the purpose you provided it.
+- No Sensitive Data: The App does not collect sensitive personal data (e.g., financial details, health information) unless you explicitly provide it for a specific feature.
+
+3. How We Use Information
+We use the collected information to:
+- Provide, operate, and improve the App;
+- Diagnose and fix technical issues and crashes;
+- Analyze usage patterns to improve features and user experience;
+- Respond to your support requests and communications.
+
+4. Sharing and Disclosure
+We do not sell or rent your personal information to third parties. We may share information in the following limited cases:
+- With service providers who help operate the App (analytics, crash reporting). These providers are contractually required to protect the data.
+- To comply with legal obligations or enforce our policies (e.g., court orders, government requests).
+- With your consent.
+
+5. Data Storage and Security
+We take reasonable steps to protect information from unauthorized access and disclosure. However, no method of transmission or storage is 100% secure. If the App stores or transmits personal data, we will use industry-standard protections where reasonable.
+
+6. Third-party Services
+The App may use third-party services (analytics, crash reporting, ad networks). These third parties have their own privacy policies and may collect data independently. We recommend reviewing their policies for details.
+
+7. Children
+The App is not intended for children under 13. We do not knowingly collect personal information from children under 13. If we learn we have collected such information, we will delete it as soon as possible.
+
+8. Your Choices and Rights
+Depending on your device and location, you may have rights to access, correct, or delete personal information. You can also disable app-level permissions in your device settings (e.g., camera, storage, location).
+
+9. Changes to This Policy
+We may update this Privacy Policy occasionally. We will post the updated policy in the App and update the Effective date. Continued use after changes means you accept the updated policy.
+
+10. Contact
+If you have questions about this Privacy Policy or our data practices, contact us at: sabir@sjain.co.in
+
+---
+This privacy policy is a general template. If your app collects additional specific data (location, exact payment info, identifiers for advertising), let me know so I can add the required disclosure and any opt-in/consent text.
