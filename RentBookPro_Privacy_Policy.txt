@@ -42,6 +42,9 @@ We may update this Privacy Policy occasionally. We will post the updated policy 
 
 10. Contact
 If you have questions about this Privacy Policy or our data practices, contact us at: sabir@sjain.co.in
+Account Deletion
 
+Users can request to delete their account and all related data by contacting us at [your support email] or by using the “Delete Account” option inside the RentBook Pro app.
+Accounts and all related data will be permanently deleted from Firebase upon request
 ---
 This privacy policy is a general template. If your app collects additional specific data (location, exact payment info, identifiers for advertising), let me know so I can add the required disclosure and any opt-in/consent text.
